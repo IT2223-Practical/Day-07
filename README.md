@@ -4,7 +4,7 @@
 
 This code demonstrates two search methods for finding a number (index = 998) in an array a = 1:1000.
 
-1. Linear Search (First Part):
+### 1. Linear Search (First Part):
    
 Loop from start to end of the array.
 
@@ -14,7 +14,7 @@ If found, prints the index and stops.
 
 Uses tic/toc to measure execution time.
 
-2. Binary Search (Second Part):
+### 2. Binary Search (Second Part):
    
 More efficient search using divide-and-conquer.
 
