@@ -5,6 +5,7 @@
 This code demonstrates two search methods for finding a number (index = 998) in an array a = 1:1000.
 
 1. Linear Search (First Part):
+   
 Loop from start to end of the array.
 
 Compares each element to the target (998).
@@ -14,6 +15,7 @@ If found, prints the index and stops.
 Uses tic/toc to measure execution time.
 
 2. Binary Search (Second Part):
+   
 More efficient search using divide-and-conquer.
 
 Calculates middle of the array.
@@ -29,6 +31,8 @@ Also uses tic/toc to measure time.
 ## selectionSort.m ##
 
 This code implements the Selection Sort algorithm to sort an array in ascending order.
+
+
 
 How It Works:
 For each position i in the array:
